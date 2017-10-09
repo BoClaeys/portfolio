@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Claeys Bo",
+    "name": "portfolio",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -33,7 +33,9 @@
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 24,
-    "versionPublish": "4.3.2"
+    "versionPublish": "4.3.2",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
