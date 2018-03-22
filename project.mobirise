@@ -765,102 +765,6 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/placeholder-2000x1413.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder-2000x1413-800x565.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/placeholder-2000x1413.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder-2000x1413-800x565.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/placeholder-2000x1413.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder-2000x1413-800x565.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/placeholder-2000x1413.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder-2000x1413-800x565.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/placeholder-2000x1413.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder-2000x1413-800x565.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/placeholder-2000x1413.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder-2000x1413-800x565.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/placeholder-2000x1413.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder-2000x1413-800x565.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/placeholder-2000x1413.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder-2000x1413-800x565.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "",
                 "active": true
               }
             ]
@@ -1141,7 +1045,7 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#465052\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\"></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#465052\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "qxA5l2PUcZ",
           "_anchor": "gallery1-l",
           "_protectedParams": [
@@ -1166,7 +1070,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-11-1676x1304-800x622.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 22 x 26 cm",
                 "active": false
               },
               {
@@ -1178,7 +1082,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-14-1928x2710-800x1124.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 37 x 25 cm",
                 "active": false
               },
               {
@@ -1190,7 +1094,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-13-1952x2724-800x1116.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 37 x 25 cm",
                 "active": false
               },
               {
@@ -1202,7 +1106,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-1-1741x1345-800x618.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 20 x 24 cm",
                 "active": false
               },
               {
@@ -1214,7 +1118,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-12-2000x1637-800x655.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 24 x 29 cm",
                 "active": false
               },
               {
@@ -1226,7 +1130,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-1-1316x1607-800x977.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 31 x 19 cm",
                 "active": false
               },
               {
@@ -1238,7 +1142,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-3-996x1304-800x1047.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 26 x 19 cm",
                 "active": false
               },
               {
@@ -1250,7 +1154,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-6-1226x2237-800x1460.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 30 x 19 cm",
                 "active": false
               },
               {
@@ -1262,7 +1166,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-7-1932x2480-800x1027.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 33 x 21 cm",
                 "active": false
               },
               {
@@ -1274,7 +1178,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-4-1043x1726-800x1324.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 24 x 16 cm",
                 "active": false
               },
               {
@@ -1286,7 +1190,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-5-996x1712-800x1375.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 24 x 16 cm",
                 "active": false
               },
               {
@@ -1298,7 +1202,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-10-1369x1356-800x792.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 19 x 19 cm",
                 "active": false
               },
               {
@@ -1310,7 +1214,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-9-1380x1001-800x580.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 18 x 25 cm",
                 "active": false
               },
               {
@@ -1322,7 +1226,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/graf-8-1336x1001-800x599.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 18 x 25 cm",
                 "active": true
               }
             ]
@@ -1420,7 +1324,7 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#465052\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\"></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#465052\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "qxA3k7NgBC",
           "_anchor": "gallery1-b",
           "_protectedParams": [
@@ -1445,7 +1349,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20180315-201559883-860x1194-800x1111.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;21 x 29,7 cm",
                 "active": false
               },
               {
@@ -1457,7 +1361,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20180315-201700870-835x1208-800x1157.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;21 x 29,7 cm",
                 "active": false
               },
               {
@@ -1469,7 +1373,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2-2000x2788-800x1115.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;21 x 29,7 cm",
                 "active": false
               },
               {
@@ -1481,7 +1385,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/4-2000x3029-800x1211.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;21 x 29,7 cm",
                 "active": true
               }
             ]
@@ -1580,7 +1484,7 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#465052\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\"></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#465052\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "qxA1mk4Vll",
           "_anchor": "gallery1-8",
           "_protectedParams": [
@@ -1605,7 +1509,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20180315-202027055-378x1208-378x1208.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;200 x 70 cm",
                 "active": false
               },
               {
@@ -1617,7 +1521,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20180315-201634562-1536x846-800x441.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled, &nbsp;33 x 50 cm</i>",
                 "active": true
               },
               {
@@ -1629,7 +1533,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/blm1-2000x2432-800x1073.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;84,1 x 118,9 cm",
                 "active": false
               },
               {
@@ -1641,7 +1545,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/blm-1956x2643-800x1080.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;59,4 x 84,1 cm",
                 "active": false
               },
               {
@@ -1653,7 +1557,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-16-2000x2733-800x1093.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1665,7 +1569,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-19-2000x2733-800x1093.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1677,7 +1581,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-18-2000x2733-800x1093.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1689,7 +1593,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-23-2000x1468-800x587.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1701,7 +1605,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-21-2000x1463-800x585.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled,&nbsp;</i>42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1713,7 +1617,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-22-2000x1463-800x585.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Parc Naturel</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1725,7 +1629,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-24-2000x1466-800x586.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1737,7 +1641,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-25-2000x1468-800x587.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1749,7 +1653,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-31-2000x1466-800x586.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1761,7 +1665,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-29-2000x1466-800x586.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1773,7 +1677,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-30-2000x1466-800x586.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1785,7 +1689,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-17-2000x2733-800x1093.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1797,7 +1701,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-34-2000x1466-800x586.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1809,7 +1713,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-36-2000x1466-800x586.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1821,7 +1725,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-35-2000x1466-800x586.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1833,7 +1737,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-33-2000x1466-800x586.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1845,7 +1749,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-32-2000x1466-800x586.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1857,7 +1761,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-20-2000x2733-800x1093.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm&nbsp;",
                 "active": false
               },
               {
@@ -1869,7 +1773,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-26-2000x1418-800x567.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Direction I</i>,&nbsp;42 x 30 cm",
                 "active": false
               },
               {
@@ -1881,7 +1785,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-28-2000x1418-800x567.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Direction II</i>,&nbsp;42 x 30 cm",
                 "active": false
               },
               {
@@ -1893,7 +1797,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-27-2000x1418-800x567.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Direction III</i>,&nbsp;42 x 30 cm",
                 "active": false
               },
               {
@@ -1905,7 +1809,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-9-2000x1463-800x585.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1917,7 +1821,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-7-2000x1463-800x585.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1929,7 +1833,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-14-2000x1463-800x585.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1941,7 +1845,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-6-2000x1463-800x585.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1953,7 +1857,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-8-2000x1463-800x585.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1965,7 +1869,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-13-2000x1463-800x585.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1977,7 +1881,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-11-2000x1463-800x585.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>, 42 x 29,7 cm",
                 "active": false
               },
               {
@@ -1989,7 +1893,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-12-2000x1463-800x585.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;42 x 29,7 cm",
                 "active": false
               },
               {
@@ -2001,7 +1905,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-0-1644x2331-800x1134.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Study from boxing class</i>,&nbsp;21 x 29,7 cm",
                 "active": false
               },
               {
@@ -2013,7 +1917,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-1-1644x2331-800x1134.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Study from boxing class</i>,&nbsp;21 x 29,7 cm",
                 "active": false
               },
               {
@@ -2025,7 +1929,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-3-2000x1392-800x557.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;21 x 29,7 cm",
                 "active": false
               },
               {
@@ -2037,7 +1941,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-2-2000x1411-800x564.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled,&nbsp;</i>21 x 29,7 cm",
                 "active": false
               },
               {
@@ -2049,7 +1953,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-4-2000x1397-800x559.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled</i>,&nbsp;21 x 29,7 cm",
                 "active": false
               },
               {
@@ -2061,7 +1965,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-5-2000x1499-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled, 35 x 40 cm</i>",
                 "active": false
               },
               {
@@ -2073,7 +1977,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tek-15-2000x1501-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<i>Untitled, 35&nbsp;</i>x 40 cm",
                 "active": false
               }
             ]
