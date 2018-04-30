@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "portfolio",
-    "currentPage": "page4.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1766,12 +1766,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/tek10-1393x2270.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tek10-1393x2270-800x1304.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tek9-1604x3284.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek9-1604x3284-800x1638.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "<i>Nude Drawing,</i>&nbsp;35 x 20 cm",
-                "active": false,
+                "caption": "<i>Nude Drawing</i>,&nbsp;35 x 20 cm",
+                "active": true,
                 "title": ""
               },
               {
@@ -1779,12 +1779,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/tek9-1604x3284.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tek9-1604x3284-800x1638.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tek10-1393x2270.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek10-1393x2270-800x1304.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "<i>Nude Drawing</i>,&nbsp;35 x 20 cm",
-                "active": true,
+                "caption": "<i>Nude Drawing,</i>&nbsp;35 x 20 cm",
+                "active": false,
                 "title": ""
               },
               {
