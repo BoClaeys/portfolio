@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "portfolio",
-    "currentPage": "page5.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1491,6 +1491,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/schild2-2000x2065.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/schild2-2000x2065-800x826.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled</i>,&nbsp;21 x 21 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/1100112-1686x1025.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1100112-1686x1025-800x486.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "<i>Untitled</i>,&nbsp;21 x 21 cm",
