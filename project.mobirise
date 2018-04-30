@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "portfolio",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -33,7 +33,7 @@
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 43,
-    "versionPublish": "4.6.6",
+    "versionPublish": "4.7.2",
     "favicon": "@PROJECT_PATH@/assets/images/graf-11-128x99.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -393,7 +393,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/sb-1-2000x1415.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -589,6 +589,63 @@
                 "contentAlign": "center",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sk1-1971x1450.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3",
+                "overlayColor": "#b2ccd2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sk2-1110x1915.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3",
+                "overlayColor": "#b2ccd2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sk3-2000x1464.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3",
+                "overlayColor": "#b2ccd2"
               }
             ]
           }
@@ -794,48 +851,52 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/placeholder-2000x1413.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder-2000x1413-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/obj2-1883x2591.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/obj2-1883x2591-800x1101.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "",
-                "active": false
+                "caption": "Palette 101",
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/placeholder-2000x1413.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder-2000x1413-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/obj7-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/obj7-2000x3000-800x1200.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "",
-                "active": false
+                "caption": "Object: <i>Untitled</i>",
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/placeholder-2000x1413.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder-2000x1413-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/obj8-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/obj8-2000x3000-800x1200.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "",
-                "active": false
+                "caption": "Object: <i>Untitled</i>",
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/placeholder-2000x1413.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder-2000x1413-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/obj11-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/obj11-2000x3000-800x1200.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "",
-                "active": true
+                "caption": "Object: <i>Untitled</i> (Green Family)",
+                "active": true,
+                "title": ""
               }
             ]
           }
@@ -1415,6 +1476,32 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/schild1-1651x3336.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schild1-1651x3336-800x1616.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled</i>,&nbsp;60 x 35 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/schild2-2000x2065.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schild2-2000x2065-800x826.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled</i>,&nbsp;21 x 21 cm",
+                "active": true,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-20180315-201559883-860x1194.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20180315-201559883-860x1194-800x1111.jpg",
                 "alt": "",
@@ -1456,7 +1543,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "<i>Untitled</i>,&nbsp;21 x 29,7 cm",
-                "active": true
+                "active": false
               }
             ]
           }
@@ -1575,12 +1662,156 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20180315-202027055-378x1208.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20180315-202027055-378x1208-378x1208.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tek6-2000x1781.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek6-2000x1781-800x712.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled, &nbsp;21 x 21 cm</i>",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tek12-2000x1800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek12-2000x1800-800x720.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled</i>,&nbsp;21 x 21 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tek13-2000x1716.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek13-2000x1716-800x686.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled</i>,&nbsp;21 x 21 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tek2-2000x1851.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek2-2000x1851-800x740.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled</i>,&nbsp;21 x 21 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tek3-2000x1794.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek3-2000x1794-800x718.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled</i>,&nbsp;21 x 21 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tek4-2000x1888.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek4-2000x1888-800x755.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled</i>,&nbsp;21 x 21 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tek8-1389x3186.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek8-1389x3186-800x1835.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Nude Drawing</i>,&nbsp;35 x 20 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tek11-2000x2787.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek11-2000x2787-800x1115.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Nude Drawing</i>,&nbsp;35 x 20 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tek10-1393x2270.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek10-1393x2270-800x1304.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Nude Drawing,</i>&nbsp;35 x 20 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tek9-1604x3284.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek9-1604x3284-800x1638.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Nude Drawing</i>,&nbsp;35 x 20 cm",
+                "active": true,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tel7-976x1466.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tel7-976x1466-800x1202.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Nude Drawing</i>,&nbsp;35 x 20 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tek1-1136x3304.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek1-1136x3304-800x2327.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "<i>Untitled</i>,&nbsp;200 x 70 cm",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Responsive",
@@ -1592,7 +1823,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "<i>Untitled, &nbsp;33 x 50 cm</i>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
