@@ -1697,10 +1697,25 @@ body {
   color: #232323;
   text-align: left;
 }
+.cid-qQMZ3N2D0A {
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #232323, #5b686b);
+}
+.cid-qQMZ3N2D0A .mbr-iconfont-social {
+  font-size: 32px;
+  color: #cccccc;
+}
+.cid-qQMZ3N2D0A .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qQMZ3N2D0A H2 {
+  color: #cccccc;
+}
 .cid-qK0YhckPmy {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #232323;
 }
 .cid-qK0YhckPmy .media-container-row .mbr-text {
   color: #c1c1c1;
