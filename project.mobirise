@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "portfolio",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1024,6 +1024,32 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20180530-190403188-2000x2493.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180530-190403188-2000x2493-800x997.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Object: Untitled (Green Family) <b>1</b><br>",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20180530-190420893-2000x3556.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180530-190420893-2000x3556-800x1422.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Object: Untitled (Green Family) <b>2</b>",
+                "active": true,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-20180119-141109864-766x4160.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20180119-141109864-766x4160-766x4160.jpg",
                 "alt": "",
@@ -1132,7 +1158,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "instalation : <i>Combining drawings with objects.</i>&nbsp;",
-                "active": true,
+                "active": false,
                 "title": ""
               }
             ]
@@ -1839,6 +1865,97 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20180531-215620261-2000x1388.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180531-215620261-2000x1388-800x555.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Under</i>, 42 x 30 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20180531-215523777-2000x2866.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180531-215523777-2000x2866-800x1146.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Up</i>,&nbsp;29 x 21 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20180601-134829079-1434x2048.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180601-134829079-1434x2048-800x1143.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled</i>, 42 x 30 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20180531-215600334-1977x2843.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180531-215600334-1977x2843-800x1150.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled</i>,&nbsp;29 x 21 cm",
+                "active": true,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20180531-215610604-2000x2802.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180531-215610604-2000x2802-800x1121.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled</i>,&nbsp;29 x 21 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20180531-215544888-2000x2894.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180531-215544888-2000x2894-800x1158.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled</i>,&nbsp;29 x 21 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20180601-135515821-1821x2572.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180601-135515821-1821x2572-800x1130.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<i>Untitled</i>,&nbsp;29 x 21 cm",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/schild1-1651x3336.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/schild1-1651x3336-800x1616.jpg",
                 "alt": "",
@@ -1870,7 +1987,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "<i>Untitled</i>,&nbsp;21 x 21 cm",
-                "active": true,
+                "active": false,
                 "title": ""
               },
               {
