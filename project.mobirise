@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bo Claeys",
-    "currentPage": "page7.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2786,6 +2786,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<i>Instalation </i><b>2</b><br>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 2",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20180303-152519625-2000x2734.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180303-152519625-2000x2734-800x1094.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
                 "active": true
               }
             ]
