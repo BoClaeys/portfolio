@@ -873,7 +873,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": false
               },
               {
@@ -886,7 +886,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": false
               },
               {
@@ -899,7 +899,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": false
               },
               {
@@ -912,7 +912,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": true
               }
             ]
@@ -1515,7 +1515,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Untitled' <b>2</b><br>\n<br>Object - 2018\n<br>\n<br>75cm/74cm/55cm (H/L/W)\n<br><i>Wood, nails and a plastic bag</i>",
+                "caption": "",
                 "active": false
               },
               {
@@ -1528,7 +1528,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Untitled' <b>2</b><br>\n<br>Object - 2018\n<br>\n<br>75cm/74cm/55cm (H/L/W)\n<br><i>Wood, nails and a plastic bag</i>",
+                "caption": "",
                 "active": false
               },
               {
@@ -1541,7 +1541,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Untitled' <b>2</b><br>\n<br>Object - 2018\n<br>\n<br>75cm/74cm/55cm (H/L/W)\n<br><i>Wood, nails and a plastic bag</i>",
+                "caption": "",
                 "active": true
               }
             ]
@@ -2647,7 +2647,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": false
               },
               {
@@ -2660,7 +2660,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": false
               },
               {
@@ -2673,7 +2673,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": true
               }
             ]
