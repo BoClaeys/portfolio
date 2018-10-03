@@ -2088,6 +2088,19 @@
                 "active": false
               },
               {
+                "tags": "YEAR 2",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tek11-2000x2787.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tek11-2000x2787-800x1115.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Nude' \n<br>\n<br>Drawing - 2018 \n<br>\n<br>42cm/29,7cm \n<br><i>Graphite on paper.</i>",
+                "active": true
+              },
+              {
                 "tags": "YEAR 1",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -2294,19 +2307,6 @@
                 "customStyle1": "display-7",
                 "caption": "'Untitled' \n<br>\n<br>Drawing - 2017&nbsp;<br>\n<br>42cm/29.7cm \n<br>Pencil and aquarelleon Paper.<br>",
                 "active": false
-              },
-              {
-                "tags": "YEAR 2",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/tek11-2000x2787.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tek11-2000x2787-800x1115.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "'Nude' \n<br>\n<br>Drawing - 2018 \n<br>\n<br>42cm/29,7cm \n<br><i>Graphite on paper.</i>",
-                "active": true
               }
             ]
           }
