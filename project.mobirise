@@ -764,6 +764,19 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/folds-2-818x928.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/folds-2-818x928-800x908.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Fold'\n<br>\n<br>Painting - 2018\n<br><br><i>Acrylics on cardboard.tion here</i>",
+                "active": true
+              },
+              {
+                "tags": "YEAR 2",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/8-1743x1241.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/8-1743x1241-800x570.jpg",
                 "alt": "",
@@ -860,21 +873,8 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Untitled'\n<br>\n<br>Painting - 2018\n<br>\n<br>22cm/29cm\n<br><i>Acrylics on cardboard.tion here</i>",
+                "caption": "'Untitled'\n<br>\n<br>Painting - 2018\n<br>\n<br>22cm/29cm\n<br><i>Acrylics on cardboard</i><i><br></i>",
                 "active": false
-              },
-              {
-                "tags": "",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/placeholder-2000x1414.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder-2000x1414-800x566.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": true
               }
             ]
           }
