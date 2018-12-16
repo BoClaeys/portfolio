@@ -3309,12 +3309,12 @@ body {
 }
 .cid-rbKXIZTAs4 .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #c1c1c1;
   transition: none;
   min-height: 77px;
 }
 .cid-rbKXIZTAs4 .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #c1c1c1;
 }
 .cid-rbKXIZTAs4 a {
   font-style: normal;
@@ -3402,7 +3402,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rbKXIZTAs4 .dropdown .dropdown-menu {
-  background: #333333;
+  background: #c1c1c1;
   display: none;
   position: absolute;
   min-width: 5rem;
