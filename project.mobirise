@@ -36,7 +36,7 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 38,
-    "versionPublish": "4.8.10",
+    "versionPublish": "4.9.3",
     "favicon": "@PROJECT_PATH@/assets/images/2-128x79.png",
     "noImageResize": "",
     "screenshot": "screenshot.png",
@@ -262,36 +262,6 @@
           "_customHTML": "<section group=\"Social\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"SocialLikes\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input inline type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input inline type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        \n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#232323\"> \n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"1\" selected>1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#c1c1c1\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" title=\"color2\" name=\"color2\" condition=\"bg.type=='color'\" value=\"#c1c1c1\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#7cd1f6\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-md-8 align-center\">\n                <h2 class=\"pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n                    FOLLOW US!\n                </h2>\n                <div class=\"social-list pl-0 mb-0\">\n                    <a href=\"https://www.instagram.com/bo_claeys/\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-instagram socicon\" style=\"color: rgb(35, 35, 35);\"></span>\n                    </a>\n                    <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 socicon-facebook socicon mbr-iconfont mbr-iconfont-social\" mbr-if=\"iconsCount > 1\"></span>\n                    </a>\n                    <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 socicon-instagram socicon mbr-iconfont mbr-iconfont-social\" mbr-if=\"iconsCount > 2\"></span>\n                    </a>\n                    <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 socicon-youtube socicon mbr-iconfont mbr-iconfont-social\" mbr-if=\"iconsCount > 3\"></span>\n                    </a>\n                    <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\" mbr-if=\"iconsCount > 4\"></span>\n                    </a>\n                    <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 socicon-behance socicon mbr-iconfont mbr-iconfont-social\" mbr-if=\"iconsCount > 5\"></span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r58bmS5yBD",
           "_anchor": "social-buttons2-8",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "meta_descr": "Website Maker Description",
-        "title": "BIO",
-        "order": 11
-      },
-      "components": [
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text": {
-              "color": "#232323"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#c1c1c1\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Bo is momenteel student aan Luca, Hogeschool voor schonekunst, te gent. Voordien heeft hij geen opleiding met betrekking tot kunst gevolgd.&nbsp;<span style=\"font-size: 1rem;\">Hij studeerde af in het middelbaar aan Steiner met een grote passie voor kunst. Deze passie had hij al van jongs-af-aan als hij thuis kwam van school was tekenen hetgeen waarmee hij zijn tijd vulde.&nbsp;</span><span style=\"font-size: 1rem;\">Nu hij volledig gebeten is door de 'kunstbacterie', laat het hem niet meer los.</span></p><div>\n</div><div>Bo maakt werken die voornamelijk als abstract omschreven kunnen worden, het draait vaak om de spanning tussen het figuratieve en het abstraheren hiervan. Veel van zijn werk zijn geschilderde stukken, Hij maakt echter ook objecten die in dialoog willen treden met voorgaande werken, ook hier draait het om een dualiteit; het platte versus het ruimtelijke.\n</div><div>\n</div><div><i><br></i></div><div><i>\"Ik wordt beïnvloed door het meest banale uit m'n omgeving, in alles zie ik een compositie die ik wil weergeven, deze speelt zich dan over in m'n gedachten tot het een vorm aanneemt en ik het vertalen kan in een concreet beeld.\"\t\t\t\t\t\t-Bo Claeys\n</i></div><div><b><br></b></div><p></p></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r58cARUACD",
-          "_anchor": "content1-c",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -806,6 +776,45 @@
             "gallery__filtersBtnStyle": "btn-black-outline",
             "gallery": [
               {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/11-2-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-2-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Tape'\n<br>\n<br>Painting - 2019&nbsp;<br><br>50cm/37cm<br><i>Laquer and acrylics on hardwood.</i>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/12-2-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-2-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Lines'\n<br>\n<br>Painting - 2019&nbsp;<br><br>40cm/57cm<br><i>Oil, laquer and acrylics on hardwood.</i>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/15-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15-1-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Pull'\n<br>\n<br>Painting - 2019&nbsp;<br><br>60cm/50cm<br><i>Laquer and acrylics on hardwood.</i><br><i>Also wood an sinew</i>",
+                "active": true
+              },
+              {
                 "tags": "YEAR 2",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -816,7 +825,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "'Fold'\n<br>\n<br>Painting - 2018\n<br><br>58cm/73cm<br><i>Acrylics on cardboard.</i>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "YEAR 2",
@@ -1476,6 +1485,123 @@
             "gallery__filtersBtnStyle": "btn-black-outline",
             "gallery": [
               {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/4-1-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-1-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Suspend' \n<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood, metal and 4 colored nails.</i>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/5-1-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-1-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Suspend' 2<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood, metal and 4 colored nails.</i>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/6-1-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-1-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Suspend' 3<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood, metal and 4 colored nails.</i>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x2511.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x2511-800x1004.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Untitled'&nbsp;<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood and chord.</i>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x2750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x2750-800x1100.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Untitled' 2<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood and chord.</i>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/7-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-1-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Hue'&nbsp;<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Fence, clothe and &nbsp;nails.</i>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/8-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-1-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Hue' 2<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Fence, clothe and &nbsp;nails.</i>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/9-1-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-1-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Untitled'&nbsp;<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Colored chord and nails.</i>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/10-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-1-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Untitled'&nbsp;<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Metal construction, chord and colored pipe.</i>",
+                "active": false
+              },
+              {
                 "tags": "YEAR 2",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1486,7 +1612,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "'Untitled' \n<br>\n<br>Object - 2018 \n<br>\n<br>String, painted cardboard and painted nails.",
-                "active": false
+                "active": true
               },
               {
                 "tags": "YEAR 2",
@@ -1590,7 +1716,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "'Untitled' \n<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood and 3 &nbsp;nails</i>",
-                "active": true
+                "active": false
               }
             ]
           }
@@ -3655,6 +3781,19 @@
             "gallery__filtersBtnStyle": "btn-black-outline",
             "gallery": [
               {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20181110-145931125-682x909.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20181110-145931125-682x909-682x909.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": true
+              },
+              {
                 "tags": "YEAR 2",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -3691,7 +3830,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": true
+                "active": false
               }
             ]
           }
