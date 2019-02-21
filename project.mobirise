@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bo Claeys",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -799,6 +799,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "'Lines'\n<br>\n<br>Painting - 2019&nbsp;<br><br>40cm/57cm<br><i>Oil, laquer and acrylics on hardwood.</i>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/bt-692x923.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bt-692x923-692x923.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'BT'\n<br>\n<br>Painting - 2019&nbsp;<br><br>40cm/30cm<br><i>Laquer and acrylics on hardwood.</i><br>",
                 "active": false
               },
               {
