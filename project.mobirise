@@ -36,7 +36,7 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 38,
-    "versionPublish": "4.9.3",
+    "versionPublish": "4.9.6",
     "favicon": "@PROJECT_PATH@/assets/images/2-128x79.png",
     "noImageResize": "",
     "screenshot": "screenshot.png",
@@ -759,7 +759,7 @@
             }
           },
           "_name": "gallery2",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\">\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#c1c1c1\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\" mbr-gallery-show-filter mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\">\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#c1c1c1\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"5\" mbr-gallery-show-filter mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "r58fi1RQJm",
           "_anchor": "gallery2-d",
           "_protectedParams": [
@@ -775,6 +775,45 @@
             "gallery__filtersTextStyle": "display-7",
             "gallery__filtersBtnStyle": "btn-black-outline",
             "gallery": [
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20190314-165842758-2-692x923.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190314-165842758-2-692x923-692x923.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Untitled'\n<br>\n<br>Painting - 2019&nbsp;<br><br>55cm/30cm<br><i>Laquer, acrylics and pencil on hardwood.</i><br>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20190314-165609976-3-580x923.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190314-165609976-3-580x923-580x923.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Untitled #2'\n<br>\n<br>Painting - 2019&nbsp;<br><br>55cm/30cm<br><i>Laquer and acrylics on hardwood.</i><br>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20190314-165902247-2-1231x923.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190314-165902247-2-1231x923-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Untitled'\n<br>\n<br>Painting - 2019&nbsp;<br><br>40cm/50cm<br><i>Laquer, acrylics and pencil on hardwood.</i><br>",
+                "active": true
+              },
               {
                 "tags": "YEAR 3",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -825,7 +864,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "'Pull'\n<br>\n<br>Painting - 2019&nbsp;<br><br>60cm/50cm<br><i>Laquer and acrylics on hardwood.</i><br><i>Also wood an sinew</i>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "YEAR 2",
