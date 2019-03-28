@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bo Claeys",
-    "currentPage": "page5.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3837,6 +3837,71 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20181124-170141688-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20181124-170141688-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Heavy Light",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-20180817-151829-696x1252.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-20180817-151829-696x1252-696x1252.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20180606-201658991-2000x3556.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180606-201658991-2000x3556-800x1422.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20181128-193834761-1726x4096.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20181128-193834761-1726x4096-800x1898.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20180417-200037536-2000x2813.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180417-200037536-2000x2813-800x1125.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-20181110-145931125-682x909.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20181110-145931125-682x909-682x909.jpg",
                 "alt": "",
@@ -3844,6 +3909,19 @@
                 "customStyle1": "display-7",
                 "caption": "",
                 "active": true
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20181023-135128971-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20181023-135128971-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
               },
               {
                 "tags": "YEAR 2",
