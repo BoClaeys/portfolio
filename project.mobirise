@@ -47,7 +47,7 @@
   "pages": {
     "Paintings.html": {
       "settings": {
-        "meta_descr": "Site Creator Description",
+        "meta_descr": "",
         "title": "  PAINTINGS",
         "order": 2
       },
@@ -817,7 +817,7 @@
     },
     "work.html": {
       "settings": {
-        "meta_descr": "Web Generator Description",
+        "meta_descr": "nr - paintings/objects/drawings/graphics",
         "title": "WORK",
         "order": 1
       },
@@ -848,7 +848,7 @@
     },
     "objects.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "",
         "title": "  OBJECTS",
         "order": 3
       },
@@ -1639,7 +1639,7 @@
     },
     "drawings.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "",
         "title": "  DRAWINGS",
         "order": 4
       },
@@ -2433,7 +2433,7 @@
     },
     "graphics.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "",
         "title": "GRAPHICS",
         "order": 5
       },
@@ -3146,7 +3146,7 @@
     },
     "other.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "nr - pictures/projects/sketchbook",
         "title": "OTHER",
         "order": 6
       },
@@ -3179,7 +3179,7 @@
     },
     "pictures.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "",
         "title": "PICTURES",
         "order": 7
       },
@@ -3911,7 +3911,7 @@
     },
     "projects.html": {
       "settings": {
-        "meta_descr": "Web Maker Description",
+        "meta_descr": "",
         "title": "PROJECTS",
         "order": 8
       },
@@ -4462,7 +4462,7 @@
     },
     "sketchbook.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "",
         "title": "SKETCHBOOK",
         "order": 9
       },
@@ -5320,7 +5320,7 @@
     },
     "contact.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "",
         "title": "CONTACT",
         "order": 10
       },
@@ -5448,7 +5448,7 @@
       "settings": {
         "main": true,
         "title": "HOME",
-        "meta_descr": "",
+        "meta_descr": "Home ea",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
