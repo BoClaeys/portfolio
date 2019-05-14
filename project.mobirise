@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bo Claeys",
-    "currentPage": "work.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -556,6 +556,45 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20190514-165927798-2-1145x922.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190514-165927798-2-1145x922-800x644.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Untitled'\n<br>\n<br>Painting - 2019&nbsp;<br><br>40cm/30cm<br><i>Laquer and acrylics on hardwood.</i><br>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20190514-171226158-2-692x922.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190514-171226158-2-692x922-692x922.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Detail 1<br>\n<br>Painting - 2019&nbsp;<br><br>40cm/30cm<br><i>Laquer and acrylics on hardwood.</i><br>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/hadetail2-2-663x883.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hadetail2-2-663x883-663x883.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Detail 2<br>\n<br>Painting - 2019&nbsp;<br><br>40cm/30cm<br><i>Laquer and acrylics on hardwood.</i><br>",
+                "active": false
+              },
+              {
+                "tags": "YEAR 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-20190424-141435775-2-739x922.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20190424-141435775-2-739x922-739x922.jpg",
                 "alt": "",
@@ -587,7 +626,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Untitled #2'\n<br>\n<br>Painting - 2019&nbsp;<br><br>55cm/30cm<br><i>Laquer and acrylics on hardwood.</i><br>",
+                "caption": "Detail 1<br>\n<br>Painting - 2019&nbsp;<br><br>55cm/30cm<br><i>Laquer and acrylics on hardwood.</i><br>",
                 "active": false
               },
               {
@@ -819,7 +858,7 @@
       "settings": {
         "meta_descr": "nr - paintings/objects/drawings/graphics",
         "title": "WORK",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -1418,7 +1457,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Untitled' 2<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood and chord.</i>",
+                "caption": "'Detail 1'<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood and chord.</i>",
                 "active": false
               },
               {
