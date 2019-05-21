@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bo Claeys",
-    "currentPage": "index.html",
+    "currentPage": "work.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -552,7 +552,7 @@
             "gallery__filtersBtnStyle": "btn-black-outline",
             "gallery": [
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -562,10 +562,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "'Untitled'\n<br>\n<br>Painting - 2019&nbsp;<br><br>40cm/30cm<br><i>Laquer and acrylics on hardwood.</i><br>",
-                "active": false
+                "active": true
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -578,7 +578,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -591,7 +591,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -604,7 +604,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -617,7 +617,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -630,7 +630,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -640,10 +640,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "'Untitled'\n<br>\n<br>Painting - 2019&nbsp;<br><br>40cm/50cm<br><i>Laquer, acrylics and pencil on hardwood.</i><br>",
-                "active": true
+                "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -656,7 +656,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -669,7 +669,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -682,7 +682,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -695,7 +695,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -708,7 +708,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -721,7 +721,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -734,7 +734,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -747,7 +747,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -760,7 +760,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -773,7 +773,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -786,7 +786,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -799,7 +799,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1396,7 +1396,7 @@
             "gallery__filtersBtnStyle": "btn-black-outline",
             "gallery": [
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1409,7 +1409,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1422,7 +1422,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1435,7 +1435,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1448,7 +1448,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1461,7 +1461,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1474,7 +1474,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1487,7 +1487,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1500,7 +1500,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1513,7 +1513,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1523,10 +1523,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "'Untitled' \n<br>\n<br>Object - 2018 \n<br>\n<br>String, painted cardboard and painted nails.",
-                "active": true
+                "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1539,7 +1539,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1552,7 +1552,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1565,7 +1565,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1578,7 +1578,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1591,7 +1591,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1601,10 +1601,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "'Trunks' \n<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood and Acryl</i>",
-                "active": false
+                "active": true
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1617,7 +1617,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2190,7 +2190,7 @@
             "gallery__filtersBtnStyle": "btn-black-outline",
             "gallery": [
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2203,7 +2203,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2213,10 +2213,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "'Nude' \n<br>\n<br>Drawing - 2018 \n<br>\n<br>42cm/29,7cm \n<br><i>Graphite on paper.</i>",
-                "active": true
+                "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2229,7 +2229,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2242,7 +2242,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2255,7 +2255,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2268,7 +2268,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2281,7 +2281,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2294,7 +2294,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2307,7 +2307,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2320,7 +2320,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2333,7 +2333,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2346,7 +2346,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2359,7 +2359,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2372,7 +2372,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2385,7 +2385,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2398,7 +2398,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2408,10 +2408,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "'Untitled' \n<br>\n<br>Drawing - 2017&nbsp;<br>\n<br>42cm/29.7cm \n<br>Ink on Paper.<br>",
-                "active": false
+                "active": true
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2981,7 +2981,7 @@
             "gallery__filtersBtnStyle": "btn-black-outline",
             "gallery": [
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2994,7 +2994,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3007,7 +3007,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3020,7 +3020,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3033,7 +3033,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3046,7 +3046,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3059,7 +3059,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3072,7 +3072,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3085,7 +3085,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3098,7 +3098,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3111,7 +3111,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3124,7 +3124,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 1",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3725,7 +3725,7 @@
             "gallery__filtersBtnStyle": "btn-black-outline",
             "gallery": [
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3738,7 +3738,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3751,7 +3751,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3764,7 +3764,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3777,7 +3777,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3790,7 +3790,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3800,10 +3800,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": true
+                "active": false
               },
               {
-                "tags": "YEAR 3",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3816,7 +3816,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3829,7 +3829,7 @@
                 "active": false
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3839,10 +3839,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<i>Instalation </i><b>2</b><br>",
-                "active": false
+                "active": true
               },
               {
-                "tags": "YEAR 2",
+                "tags": "2017",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
