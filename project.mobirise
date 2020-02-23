@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bo Claeys",
-    "currentPage": "index.html",
+    "currentPage": "Paintings.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -552,6 +552,45 @@
             "gallery__filtersBtnStyle": "btn-black-outline",
             "gallery": [
               {
+                "tags": "2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200130-160319415-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200130-160319415-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Fack p**nting'\n<br>\n<br>Painting Instalation - 2019&nbsp;<i><br></i>",
+                "active": false
+              },
+              {
+                "tags": "2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200130-160233358-2000x1844.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200130-160233358-2000x1844-800x738.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Untitled'\n<br>\n<br>Painting - 2019&nbsp;<br>\n<br>35cm/43cm\n<br><i>Laquer, acrylics and tape on hardwood.<br></i>",
+                "active": false
+              },
+              {
+                "tags": "2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200130-160242242-1979x1588.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200130-160242242-1979x1588-800x642.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Double'\n<br>\n<br>Painting - 2019&nbsp;<br>\n<br>35cm/55cm\n<br><i>Acrylics and Laquer on hardwood.<br></i>",
+                "active": true
+              },
+              {
                 "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -704,7 +743,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Lines'\n<br>\n<br>Painting - 2019&nbsp;<br><br>40cm/57cm<br><i>Oil, laquer and acrylics on hardwood.</i>",
+                "caption": "'Divided'\n<br>\n<br>Painting - 2019&nbsp;<br><br>40cm/57cm<br><i>Oil, laquer and acrylics on hardwood.</i>",
                 "active": false
               },
               {
@@ -861,7 +900,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "'Untitled'\n<br>\n<br>Painting - 2018\n<br>\n<br>22cm/29cm\n<br><i>Acrylics on cardboard</i><i><br></i>",
-                "active": true
+                "active": false
               }
             ]
           }
@@ -1448,6 +1487,175 @@
             "gallery__filtersBtnStyle": "btn-black-outline",
             "gallery": [
               {
+                "tags": "Instalation 2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200130-160329462-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200130-160329462-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Instalation\n<br>\n<br>Object - 2019&nbsp;<br>",
+                "active": false
+              },
+              {
+                "tags": "Instalation 2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200131-145115960-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200131-145115960-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Instalation<br><br>Object - 2019&nbsp;<br>",
+                "active": false
+              },
+              {
+                "tags": "Instalation 2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200131-145106916-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200131-145106916-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Instalation\n<i>&nbsp;</i><br>\n<br>Object - 2019&nbsp;<br>",
+                "active": false
+              },
+              {
+                "tags": "Instalation 2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200131-145023720-1740x4096.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200131-145023720-1740x4096-800x1883.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Instalation<br><br><i>Detail</i><br><br>Object - 2019&nbsp;<br>",
+                "active": false
+              },
+              {
+                "tags": "Instalation 2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200131-145004697-1613x3842.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200131-145004697-1613x3842-800x1906.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Instalation\n<br>\n<br><i>Detail\n</i><br>\n<br>Object - 2019&nbsp;<br>",
+                "active": false
+              },
+              {
+                "tags": "Instalation 2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200130-144804451-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200130-144804451-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Instalation\n<br>\n<br><i>Detail\n</i><br>\n<br>Object - 2019&nbsp;<br>",
+                "active": true
+              },
+              {
+                "tags": "Instalation 2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200130-164610301-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200130-164610301-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Stored'<i>&nbsp;</i><br>\n<br>Object - 2019&nbsp;<br><br><i>Painted wood</i>",
+                "active": false
+              },
+              {
+                "tags": "Instalation 2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200130-160307285-2000x2472.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200130-160307285-2000x2472-800x989.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Step'&nbsp;<br><br>Object - 2019&nbsp;<br><br><i>Painted wood</i>",
+                "active": false
+              },
+              {
+                "tags": "Instalation 2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200131-105837810-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200131-105837810-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Step' 2 &nbsp;<br>\n<br>Object - 2019 \n<br>\n<br><i>Painted wood</i><br>",
+                "active": false
+              },
+              {
+                "tags": "Instalation 2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200131-105829605-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200131-105829605-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Step' 3 &nbsp;<br>\n<br>Object - 2019 \n<br>\n<br><i>Painted wood</i><br>",
+                "active": false
+              },
+              {
+                "tags": "Instalation 2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200131-105810374-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200131-105810374-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Untitled' \n<br>\n<br>Object - 2019 \n<br>\n<br>&nbsp;<i>Wooden beam and stones</i><br>",
+                "active": false
+              },
+              {
+                "tags": "Instalation 2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200131-105822789-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200131-105822789-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Untitled' 2<br>\n<br>Object - 2019 \n<br>\n<br> Wooden beam and stones<br>",
+                "active": false
+              },
+              {
+                "tags": "Instalation 2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200131-105803542-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200131-105803542-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "'Untitled' <i>detail</i><br>\n<br>Object - 2019 \n<br>\n<br><i> Wooden beam and stones</i><br>",
+                "active": false
+              },
+              {
                 "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1457,7 +1665,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Suspend' \n<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood, metal and 4 colored nails.</i>",
+                "caption": "'Suspend' \n<br>\n<br>Object - 2018&nbsp;<br>\n<br><i>Wood, metal and 4 colored nails.</i>",
                 "active": false
               },
               {
@@ -1470,7 +1678,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Suspend' 2<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood, metal and 4 colored nails.</i>",
+                "caption": "'Suspend' 2<br>\n<br>Object - 2018&nbsp;<br>\n<br><i>Wood, metal and 4 colored nails.</i>",
                 "active": false
               },
               {
@@ -1483,7 +1691,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Suspend' 3<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood, metal and 4 colored nails.</i>",
+                "caption": "'Suspend' 3<br>\n<br>Object - 2018&nbsp;<br>\n<br><i>Wood, metal and 4 colored nails.</i>",
                 "active": false
               },
               {
@@ -1496,7 +1704,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Untitled'&nbsp;<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood and chord.</i>",
+                "caption": "'Untitled'&nbsp;<br>\n<br>Object - 2018&nbsp;<br>\n<br><i>Wood and chord.</i>",
                 "active": false
               },
               {
@@ -1509,7 +1717,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Detail 1'<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood and chord.</i>",
+                "caption": "'Detail 1'<br>\n<br>Object - 2018&nbsp;<br>\n<br><i>Wood and chord.</i>",
                 "active": false
               },
               {
@@ -1522,7 +1730,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Hue'&nbsp;<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Fence, clothe and &nbsp;nails.</i>",
+                "caption": "'Hue'&nbsp;<br>\n<br>Object - 2018&nbsp;<br>\n<br><i>Fence, clothe and &nbsp;nails.</i>",
                 "active": false
               },
               {
@@ -1535,7 +1743,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Hue' 2<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Fence, clothe and &nbsp;nails.</i>",
+                "caption": "'Hue' 2<br>\n<br>Object - 2018&nbsp;<br>\n<br><i>Fence, clothe and &nbsp;nails.</i>",
                 "active": false
               },
               {
@@ -1548,7 +1756,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Untitled'&nbsp;<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Colored chord and nails.</i>",
+                "caption": "'Untitled'&nbsp;<br>\n<br>Object - 2018&nbsp;<br>\n<br><i>Colored chord and nails.</i>",
                 "active": false
               },
               {
@@ -1561,7 +1769,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Untitled'&nbsp;<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Metal construction, chord and colored pipe.</i>",
+                "caption": "'Untitled'&nbsp;<br>\n<br>Object - 20178<br>\n<br><i>Metal construction, chord and colored pipe.</i>",
                 "active": false
               },
               {
@@ -1574,7 +1782,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Untitled' \n<br>\n<br>Object - 2018 \n<br>\n<br>String, painted cardboard and painted nails.",
+                "caption": "'Untitled' \n<br>\n<br>Object - 2017&nbsp;<br>\n<br>String, painted cardboard and painted nails.",
                 "active": false
               },
               {
@@ -1587,7 +1795,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Untitled'\n<br>\n<br>Object - 2018\n<br><br><i>String, painted cardboard and painted nails.</i>",
+                "caption": "'Untitled'\n<br>\n<br>Object - 2017&nbsp;<br><br><i>String, painted cardboard and painted nails.</i>",
                 "active": false
               },
               {
@@ -1600,7 +1808,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Untitled' <b>1</b><br>\n<br>Object - 2018<br>\n<br>75cm/74cm/55cm (H/L/W)\n<br><i>Wood, nails and a plastic bag</i>",
+                "caption": "'Untitled' <b>1</b><br>\n<br>Object - 2017<br>\n<br>75cm/74cm/55cm (H/L/W)\n<br><i>Wood, nails and a plastic bag</i>",
                 "active": false
               },
               {
@@ -1613,7 +1821,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Untitled' <b>2</b><br>\n<br>Object - 2018\n<br>\n<br>75cm/74cm/55cm (H/L/W)\n<br><i>Wood, nails and a plastic bag</i>",
+                "caption": "'Untitled' <b>2</b><br>\n<br>Object - 2017&nbsp;<br>\n<br>75cm/74cm/55cm (H/L/W)\n<br><i>Wood, nails and a plastic bag</i>",
                 "active": false
               },
               {
@@ -1653,7 +1861,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "'Trunks' \n<br>\n<br>Object - 2017&nbsp;<br>\n<br><i>Wood and Acryl</i>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "2016",
