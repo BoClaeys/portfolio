@@ -312,16 +312,16 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #1b1b1b;
-  color: #1b1b1b;
+  border-color: #0b566f;
+  color: #0b566f;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #1b1b1b;
-  border-color: #1b1b1b;
+  background-color: #149dcc;
+  border-color: #149dcc;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
@@ -532,7 +532,7 @@ a.text-black:focus {
   background-color: #b1a374;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
-  border-radius: 0px;
+  border-radius: 100px;
 }
 .mbr-section-btn a.btn:not(.btn-form):hover,
 .mbr-section-btn a.btn:not(.btn-form):focus {
@@ -544,11 +544,11 @@ a.text-black:focus {
   -webkit-box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2) !important;
 }
 .mbr-gallery-filter li a {
-  border-radius: 0px !important;
+  border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #1b1b1b;
-  border-color: #1b1b1b;
+  background-color: #149dcc;
+  border-color: #149dcc;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -1861,6 +1861,9 @@ body {
   opacity: 0;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-r58fi1RQJm .mbr-gallery-item > div > span {
+  color: #ffffff;
 }
 .cid-r8xSaczkh6 {
   padding-top: 0px;
@@ -5013,29 +5016,9 @@ body {
 .cid-r594xmqFLX .media-container-row .mbr-text {
   color: #c1c1c1;
 }
-.cid-r8Wrfe7vUd {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #c1c1c1;
-}
-.cid-r8Wrfe7vUd H2 {
-  color: #232323;
-}
-.cid-r8WqR0sgGK {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #c1c1c1;
-}
-.cid-r8WqR0sgGK .mbr-text,
-.cid-r8WqR0sgGK blockquote {
-  color: #767676;
-}
-.cid-r8WqR0sgGK .mbr-text {
-  color: #232323;
-}
 .cid-r58aszpuTC {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-color: #c1c1c1;
 }
 .cid-r58aszpuTC .title {
