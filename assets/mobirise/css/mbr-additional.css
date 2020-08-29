@@ -492,7 +492,7 @@ a.text-black:focus {
   background-color: #b1a374;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
-  border-radius: 0px;
+  border-radius: 100px;
 }
 .mbr-section-btn a.btn:not(.btn-form):hover,
 .mbr-section-btn a.btn:not(.btn-form):focus {
@@ -504,11 +504,11 @@ a.text-black:focus {
   -webkit-box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2) !important;
 }
 .mbr-gallery-filter li a {
-  border-radius: 0px !important;
+  border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #1b1b1b;
-  border-color: #1b1b1b;
+  background-color: #149dcc;
+  border-color: #149dcc;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -567,7 +567,7 @@ blockquote {
   box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
 }
 .mbr-form .input-group-btn button[type="submit"] {
-  border-radius: 0px !important;
+  border-radius: 100px !important;
   padding: 1rem 3rem;
 }
 .mbr-form .input-group-btn button[type="submit"]:hover {
@@ -2970,7 +2970,7 @@ section.lazy-placeholder:after {
 .cid-r58MiTQHkV {
   padding-top: 60px;
   padding-bottom: 90px;
-  background-color: #c1c1c1;
+  background-color: #cccccc;
 }
 .cid-r58MiTQHkV .mbr-slider .carousel-control {
   background: #1b1b1b;
